@@ -4,6 +4,7 @@
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN,copilot.microsoft.com
@@ -35,4 +36,5 @@ DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,mozz.us
 DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
+
 
